@@ -41,12 +41,9 @@ launch_loader()
 ✅ Why Use This?
 
 This system is designed for serious Python developers who want:
-
-Instant error visibility (sound + logs)
-
-No missed tracebacks
-
-Easy debugging in CLI tools
+.Instant error visibility (sound + logs)
+.No missed tracebacks
+.Easy debugging in CLI tools
 
 💬 Questions? Contributions?
 Drop an issue or discussion here on GitHub—or connect on LinkedIn!
