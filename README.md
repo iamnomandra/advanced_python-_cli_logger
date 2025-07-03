@@ -10,14 +10,17 @@ This is a production-ready logging system for Python CLI apps that:
 
 ---
 
-### ✅ Features:
-| Feature                  | Included |
-|--------------------------|----------|
-| 🎨 Styled Terminal Logs   | ✅ Yes   |
-| ⚡ Auto Traceback Hooking | ✅ Yes   |
-| 🔊 Sound Alerts           | ✅ Yes   |
-| 📝 Rotating File Logs     | ✅ Yes   |
-| 📧 Email Error Alerts     | ✅ Yes   |
+### 💎 Key Features — Why Developers Love This System
+
+| Feature                     | ✅ Status |
+|-----------------------------|-----------|
+| 🎨 Styled Terminal Logs     | ✅ Yes    |
+| ⚡ Auto Traceback Hooking    | ✅ Yes    |
+| 🔊 Sound Alerts for Errors   | ✅ Yes    |
+| 📝 Rotating File Logging     | ✅ Yes    |
+| 📧 Email Error Notifications | ✅ Yes    |
+
+
 
 ---
 
