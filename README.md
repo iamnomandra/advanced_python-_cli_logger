@@ -41,7 +41,7 @@ This system is crafted for developers who need:
 2. Install required dependencies:
 
 ```bash
-pip install playsound rich
+pip install playsound rich 
 ```
 
 3. Adjust SMTP settings for email alerts (if needed).
