@@ -90,5 +90,5 @@ MIT — Free to use, modify, and enhance in your own projects.
 ---
 
 > 🚀 Ready to improve your CLI debugging?\
-> ⭐ Star this repo and start integrating today!
+> 💡 Found this useful? Give it a ⭐ and share with your Python friends!
 
