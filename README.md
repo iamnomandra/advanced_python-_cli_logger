@@ -72,8 +72,7 @@ Unlike basic loggers, this system:
 
 ### 💬 Questions? Contributions?
 
-- Feel free to open an **Issue** or start a **Discussion** on GitHub.
-- You can also connect with me on [**LinkedIn**](https://www.linkedin.com/in/your-profile/) for collaboration or questions.
+- Feel free to open an **Issue** or start a **Discussion** on GitHub. 
 
 --- 
  
