@@ -70,25 +70,19 @@ Unlike basic loggers, this system:
 
 ---
 
-### 📧 Pro Tip: Enable Email Alerts for Production 
-
-Simply adjust your SMTP config in `email_utils.py` to receive instant email notifications when critical errors occur.
-
---- 
-
 ### 💬 Questions? Contributions?
 
 - Feel free to open an **Issue** or start a **Discussion** on GitHub.
 - You can also connect with me on [**LinkedIn**](https://www.linkedin.com/in/your-profile/) for collaboration or questions.
 
----
+--- 
+ 
+> 💌 **Pro Tip:** Enable email alerts by configuring SMTP settings in `email_utils.py`
+
+> 🚀 Ready to improve your `CLI debugging`?
+ 
+> 💡 Found this useful? Give it a ⭐ and share with your `Python friends`!
 
 ### 📜 License
 
 MIT — Free to use, modify, and enhance in your own projects.
-
----
-
-> 🚀 Ready to improve your CLI debugging?\
-> 💡 Found this useful? Give it a ⭐ and share with your Python friends!
-
