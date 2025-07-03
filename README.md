@@ -22,19 +22,24 @@ This is a production-ready logging system for Python CLI apps that:
 ---
 
 ### ✅ Setup
-1. Clone or copy this repository.
-2. Install required packages:
-3.Adjust SMTP settings for email alerts.   
+- Clone or copy this repository.
+- Install required packages:
+- Adjust SMTP settings for email alerts.
+  
 ```bash
 pip install playsound rich
 ```
 
 ### ✅ Quick Start Example: 
 
+```bash
+
 from cli_logger_with_alerts import attach_global_traceback, launch_loader
 
 attach_global_traceback()
 launch_loader()
+
+``` 
 
 ### ✅ Why Use This?
 
