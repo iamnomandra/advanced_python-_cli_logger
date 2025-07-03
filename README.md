@@ -1,4 +1,4 @@
-# 🎧 Advanced Python CLI Logger with Sound Alerts, Styled Tracebacks & Email Alerts
+## 🎧 Advanced Python CLI Logger with Sound Alerts, Styled Tracebacks & Email Alerts
 
 This is a production-ready logging system for Python CLI apps that:
 
