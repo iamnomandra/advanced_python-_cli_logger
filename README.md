@@ -10,7 +10,7 @@ This is a production-ready logging system for Python CLI apps that:
 
 ---
 
-## ✅ Features:
+### ✅ Features:
 | Feature                  | Included |
 |--------------------------|----------|
 | 🎨 Styled Terminal Logs   | ✅ Yes   |
@@ -21,7 +21,7 @@ This is a production-ready logging system for Python CLI apps that:
 
 ---
 
-## ✅ Setup
+### ✅ Setup
 1. Clone or copy this repository.
 2. Install required packages:
 3.Adjust SMTP settings for email alerts.   
@@ -29,32 +29,24 @@ This is a production-ready logging system for Python CLI apps that:
 pip install playsound rich
 ```
 
-
-
-✅ Quick Start Example: 
+### ✅ Quick Start Example: 
 
 from cli_logger_with_alerts import attach_global_traceback, launch_loader
 
 attach_global_traceback()
 launch_loader()
 
-✅ Why Use This?
+### ✅ Why Use This?
 
 This system is designed for serious Python developers who want:
-.Instant error visibility (sound + logs)
-.No missed tracebacks
-.Easy debugging in CLI tools
+- Instant error visibility (sound + logs)
+- No missed tracebacks
+- Easy debugging in CLI tools
 
-💬 Questions? Contributions?
+### 💬 Questions? Contributions?
+
 Drop an issue or discussion here on GitHub—or connect on LinkedIn!
 
 📜 License: MIT 
 
----
-
-### ✅ Notes:
-- Both snippets above are copy-paste ready.
-- You can easily customize your SMTP config later.
-- This setup is LinkedIn-friendly, GitHub-ready, and beginner-friendly for those who love powerful CLI tools.
-
----
+--- 
