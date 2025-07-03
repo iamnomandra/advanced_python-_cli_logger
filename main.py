@@ -1,6 +1,6 @@
 """
 🎧 Advanced Python CLI Logger with Sound Alerts, Styled Tracebacks & Email Notifications
-Author: [Your Name or GitHub Handle]
+Author: [Amit Kumar]
 """
 
 import os
